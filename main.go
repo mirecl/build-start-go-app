@@ -66,7 +66,7 @@ func main() {
 		STORE_CONFIG: StoreConfig{
 			DB_USER: "gleb",
 			DB_PASS: "passfromdb",
-			DB_HOST: "server.delta.sbrf.ru",
+			DB_HOST: "server.delta.russian.ru",
 			DB_PORT: 5432,
 		},
 		SCHEDULER_HOST: "scheduler.namespace.local.svc",
